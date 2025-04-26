@@ -38,15 +38,15 @@ CarServ is a simple Node.js, Express.js, and EJS-based web application that prov
 
 ## 🛡️ Tech Stack
 
--Backend: Node.js, Express.js
+- Backend: Node.js, Express.js
 
--Frontend: EJS Templates, Bootstrap
+- Frontend: EJS Templates, Bootstrap
 
--Database: MongoDB
+- Database: MongoDB
 
--Authentication: JWT (JSON Web Token)
+- Authentication: JWT (JSON Web Token)
 
--Other: Cookie-Parser, Mongoose
+- Other: Cookie-Parser, Mongoose
 
 ## 📂 Project Structure
 
