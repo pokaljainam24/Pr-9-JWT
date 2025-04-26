@@ -26,15 +26,13 @@ CarServ is a simple Node.js, Express.js, and EJS-based web application that prov
 |:-----|:-----------|
 | **Register Page** | ![image](https://github.com/user-attachments/assets/d2108e96-62fc-4756-ac7c-920a245c820d) |
 | **Login Page** | ![image](https://github.com/user-attachments/assets/e750e021-528e-44e9-b40b-d6b4c0c6516f) |
-[[![CarServ WebPage]](https://github.com/your-username/carserv/assets/your-github-id/35d0c00a-a647-4837-b217-c8f0c72e625f.mp4)
+| **Home Page** | ![image](https://github.com/user-attachments/assets/38f45829-62a6-40a8-b23b-bf5a5f9c511b) |
 
 ---
 
 ## 🚀 Live Demo
 
 🌎 **Live Project**: [https://carserv-example.vercel.app](https://carserv-example.vercel.app)
-
-> *(Change the link to your actual live hosted project link!)*
 
 ---
 
